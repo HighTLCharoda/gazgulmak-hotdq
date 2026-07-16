@@ -2,12 +2,12 @@
 publish: true
 title: Клад Королевы Драконов — 💰💅💄🐉
 created: 2026-03-03T21:53:15.397+03:00
-modified: 2026-07-16T05:40:48.726+03:00
+modified: 2026-07-16T05:50:40.178+03:00
 ---
 
 ## Текущая Группа
 
-<table style="width: 100%;border-collapse: collapse;border: none;background: transparent;"><tr style="background: transparent; border: none"><!-- Персонаж 1 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="kva.webp" style="border-radius: 20px;" alt="Ква" /><a href="Группа/Кварион.md" class="internal-link portrait-link">Кварион</a></td><!-- Персонаж 2 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="gis.webp" style="border-radius: 20px;" alt="Гис" /> <a href="Группа/Гислен.md" class="internal-link portrait-link">Гислен</a></td><!-- Персонаж 3 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="zef.webp" style="border-radius: 20px;" alt="Зеф" /><a href="Группа/Зефирон.md" class="internal-link portrait-link">Зефирон</a></td><!-- Персонаж 4 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="pir.webp" style="border-radius: 20px;" alt="Пир" /><a href="Группа/Пирит.md" class="internal-link portrait-link">Пирит</a></td></tr></table>
+<table style="width: 100%;border-collapse: collapse;border: none;background: transparent;"><tr style="background: transparent; border: none"><!-- Персонаж 1 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="_media/small/kva.webp" style="border-radius: 20px;" alt="Ква" /><a href="Группа/Кварион.md" class="internal-link portrait-link">Кварион</a></td><!-- Персонаж 2 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="_media/small/gis.webp" style="border-radius: 20px;" alt="Гис" /> <a href="Группа/Гислен.md" class="internal-link portrait-link">Гислен</a></td><!-- Персонаж 3 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="_media/small/zef.webp" style="border-radius: 20px;" alt="Зеф" /><a href="Группа/Зефирон.md" class="internal-link portrait-link">Зефирон</a></td><!-- Персонаж 4 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="_media/small/pir.webp" style="border-radius: 20px;" alt="Пир" /><a href="Группа/Пирит.md" class="internal-link portrait-link">Пирит</a></td></tr></table>
 
 ## Хроника
 
