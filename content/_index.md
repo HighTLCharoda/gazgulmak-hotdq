@@ -2,12 +2,12 @@
 publish: true
 title: Клад Королевы Драконов — 💰💅💄🐉
 created: 2026-03-03T21:53:15.397+03:00
-modified: 2026-06-04T17:08:57.863+03:00
+modified: 2026-07-16T05:40:48.726+03:00
 ---
 
 ## Текущая Группа
 
-<table style="width: 100%; border-collapse: collapse; border: none; background: transparent;"> <tr style="background: transparent; border: none;"> <!-- Персонаж 1 --> <td style="text-align: center; border: none; padding: 10px; width: 25%;"> <img src="https://i.ibb.co/0RvrjdYr/cbfd2837-f34f-4616-9a59-2e1271651aa4.jpg" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;"> Кварион </td> <!-- Персонаж 2 --> <td style="text-align: center; border: none; padding: 10px; width: 25%;"> <img src="https://i.ibb.co/wZmBxTPv/A.webp" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;">Гислен </td> <!-- Персонаж 3 --> <td style="text-align: center; border: none; padding: 10px; width: 25%;"> <img src="https://i.ibb.co/DHGPMK2b/05b0fd16-d0b6-4a80-81e4-dd97bca1a142.jpg" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;"> Зефирон </td> <!-- Персонаж 4 --> <td style="text-align: center; border: none; padding: 10px; width: 25%;"> <img src="https://i.ibb.co/5gP0R34H/7bc2c1ca-8c6d-4850-8b86-e8cb83eaa292.webp" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;"> Пирит </td> </tr> </table>
+<table style="width: 100%;border-collapse: collapse;border: none;background: transparent;"><tr style="background: transparent; border: none"><!-- Персонаж 1 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="kva.webp" style="border-radius: 20px;" alt="Ква" /><a href="Группа/Кварион.md" class="internal-link portrait-link">Кварион</a></td><!-- Персонаж 2 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="gis.webp" style="border-radius: 20px;" alt="Гис" /> <a href="Группа/Гислен.md" class="internal-link portrait-link">Гислен</a></td><!-- Персонаж 3 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="zef.webp" style="border-radius: 20px;" alt="Зеф" /><a href="Группа/Зефирон.md" class="internal-link portrait-link">Зефирон</a></td><!-- Персонаж 4 --><td style="text-align: center; border: none; padding: 10px; width: 25%">  <img src="pir.webp" style="border-radius: 20px;" alt="Пир" /><a href="Группа/Пирит.md" class="internal-link portrait-link">Пирит</a></td></tr></table>
 
 ## Хроника
 
