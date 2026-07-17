@@ -33,3 +33,36 @@ body a.internal-link::after {
   vertical-align: super; 
   font-size: 0.8em; /* Уменьшаем размер, чтобы смотрелось аккуратно */
 }
+
+ .session-grid {
+     display: grid;
+     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+     gap: 12px;
+     padding: 16px 0;
+     font-family: var(--font-interface, sans-serif);
+ }
+
+ .session-card {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     padding: 14px 8px;
+     background-color: var(--background-secondary, #202020);
+     border: 1px solid var(--background-modifier-border, #303030);
+     border-radius: 8px;
+     color: var(--text-normal, #dcddde) !important;
+     text-decoration: none !important;
+     font-weight: 500;
+     font-size: 0.95em;
+     text-align: center;
+     transition: all 0.2s ease-in-out;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+ }
+
+ .session-card:hover {
+     background-color: var(--interactive-accent, #7a22dc);
+     color: #ffffff !important;
+     border-color: transparent;
+     transform: translateY(-2px);
+     box-shadow: 0 4px 12px rgba(122, 34, 220, 0.3);
+ }
