@@ -1,3 +1,35 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// .sidebar {
+//     padding: $topSpacing 2rem 0rem 0rem;
+// }
+
+// :root {
+//   // Стандартная ширина левого сайдбара (по умолчанию ~380px)
+//   --sidePanelWidth: 280px; 
+  
+//   // Стандартная ширина правого сайдбара (по умолчанию ~380px)
+//   --rightPanelWidth: 280px;
+// }
+
+:root, [data-theme="light"], [data-theme="dark"] {
+  --headerFont: "Merriweather", monospace;
+  --bodyFont: "Merriweather", monospace;
+  --codeFont: "Merriweather", monospace;
+  --link-color: #c38b78;
+}
+
+p, span, li, body, a.nav-file-title {
+  font-family: var(--bodyFont) !important;
+}
+
+body a.internal-link {
+  background-color: unset !important;
+}
+
+body a.internal-link::after {
+  content: "•";
+  vertical-align: super; 
+  font-size: 0.8em; /* Уменьшаем размер, чтобы смотрелось аккуратно */
+}

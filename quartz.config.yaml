@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Victor Mono
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
@@ -110,6 +110,12 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      useThemeFonts: false      
+      fontOrigin: googleFonts   
+      header: Merriweather    
+      body: Merriweather
+      code: Merriweather
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -201,32 +207,32 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-  - source: github:quartz-community/reader-mode
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
-  - source: github:quartz-community/breadcrumbs
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 5
-      condition: not-index
-  - source: github:quartz-community/comments
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
-  - source: github:quartz-community/footer
-    enabled: true
-    options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+  # - source: github:quartz-community/reader-mode
+  #   enabled: true
+  #   layout:
+  #     position: left
+  #     priority: 35
+  #     group: toolbar
+  # - source: github:quartz-community/breadcrumbs
+  #   enabled: true
+  #   layout:
+  #     position: beforeBody
+  #     priority: 5
+  #     condition: not-index
+  # - source: github:quartz-community/comments
+  #   enabled: false
+  #   options:
+  #     provider: giscus
+  #     options: {}
+  #   layout:
+  #     position: afterBody
+  #     priority: 10
+  # - source: github:quartz-community/footer
+  #   enabled: true
+  #   options:
+  #     links:
+  #       GitHub: https://github.com/jackyzha0/quartz
+  #       Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -237,18 +243,18 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-  - source: github:quartz-community/bases-page
-    enabled: true
-    options: {}
-    order: 50
+  # - source: github:quartz-community/bases-page
+  #   enabled: true
+  #   options: {}
+  #   order: 50
   - source: github:quartz-community/note-properties
     enabled: true
     options:
       includeAll: false
       includedProperties:
-        - description
+        # - description
         - tags
-        - aliases
+        # - aliases
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
@@ -264,14 +270,14 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
+      theme: 	quest-journal
+  # - source: github:quartz-community/obsidian-plugin-excalidraw
+  #   enabled: true
+  #   options:
+  #     enableInteraction: true
+  #     darkMode: auto
+  #     exportPadding: 20
+  #   order: 50
 layout:
   groups:
     toolbar:
