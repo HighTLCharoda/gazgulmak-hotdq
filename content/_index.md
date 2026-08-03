@@ -2,7 +2,7 @@
 publish: true
 title: Клад Королевы Драконов — 💰💅💄🐉
 created: 2026-03-03T21:53:15.397+03:00
-modified: 2026-07-17T23:17:49.812+03:00
+modified: 2026-08-03T11:01:53.568+03:00
 ---
 
 ## Текущая Группа
@@ -11,7 +11,10 @@ modified: 2026-07-17T23:17:49.812+03:00
 
 ## Хроника
 
-<div class="session-grid"> <a class="session-card" href="Сессия 0.5">Сессия 0.5</a> <a class="session-card" href="Сессия 1">Сессия 1</a> <a class="session-card" href="Сессия 2">Сессия 2</a> <a class="session-card" href="Сессия 3">Сессия 3</a> <a class="session-card" href="Сессия 4">Сессия 4</a> <a class="session-card" href="Сессия 5">Сессия 5</a> <a class="session-card" href="Сессия 6">Сессия 6</a> <a class="session-card" href="Сессия 7">Сессия 7</a> <a class="session-card" href="Сессия 8">Сессия 8</a> <a class="session-card" href="Сессия 9">Сессия 9</a> <a class="session-card" href="Сессия 10">Сессия 10</a> <a class="session-card" href="Сессия 11">Сессия 11</a> <a class="session-card" href="Сессия 12">Сессия 12</a> <a class="session-card" href="Сессия 13">Сессия 13</a> <a class="session-card" href="Сессия 14">Сессия 14</a> <a class="session-card" href="Сессия 15">Сессия 15</a> <a class="session-card" href="Сессия 16">Сессия 16</a> <a class="session-card" href="Сессия 17">Сессия 17</a> </div>
+<div class="session-grid"> 
+<a class="session-card" href="Сессия 0.5">Сессия 0.5</a> <a class="session-card" href="Сессия 1">Сессия 1</a> <a class="session-card" href="Сессия 2">Сессия 2</a> <a class="session-card" href="Сессия 3">Сессия 3</a> <a class="session-card" href="Сессия 4">Сессия 4</a> <a class="session-card" href="Сессия 5">Сессия 5</a> <a class="session-card" href="Сессия 6">Сессия 6</a>
+</div>
+
 ## Творчество
 
 | Автор | Ссылка                               |
